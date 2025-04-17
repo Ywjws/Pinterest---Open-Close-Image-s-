@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.5.1
 // @description  Shift+Z: 后台打开鼠标悬停图片的 URL；Shift+C: 打开当前页面所有图片 URL（后台打开）；Shift+X: 关闭所有 URL 以 https://i.pinimg.com/originals 开头的标签页
-// @author       YourName
+// @author       wjwsu
 // @include      https://*.pinterest.tld/*
 // @grant        GM_openInTab
 // @noframes
